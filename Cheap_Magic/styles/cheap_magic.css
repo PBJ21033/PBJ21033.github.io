@@ -61,6 +61,8 @@ section
 {
     text-align: center;
     color: #fefefa;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 section p
 {
@@ -267,11 +269,13 @@ h1
 {
     grid-column: 2;
     text-align: left;
+    padding-right: 50px;
 }
 #cost
 {
     grid-column: 2;
     justify-self: bottom;
+    padding-right: 50px;
 }
 #cost:hover
 {
